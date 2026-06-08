@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Gestor Financeiro EPP 2026 ── KM Gestor
 
 Este é um sistema Web completo e altamente refinado para o gerenciamento financeiro de eventos, projetado sob medida com componentes interativos e responsivos de alta fidelidade para uso móvel e desktop (Base 44px de área de toque para acessibilidade impecável).
@@ -71,3 +72,7 @@ Você pode executar o script fornecido no arquivo `supabase.sql` diretamente no 
 ---
 
 *Desenvolvido com foco em alta eficiência operacional, estética visual impecável e segurança de dados.*
+=======
+# GESTOR-KM-EPP---NOVO-2026
+GESTOR KM EPP - NOVO 2026
+>>>>>>> 64b81e0d6bfeefc3cc47f0a548106d914bf5ab6a
